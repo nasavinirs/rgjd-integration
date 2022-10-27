@@ -9,6 +9,10 @@ function App() {
           <Alert key="success" variant="success">
             Success
           </Alert>
+          <br />
+          <Alert key="danger" variant="danger">
+            Danger
+          </Alert>
         </Col>
       </Row>
     </Container>
